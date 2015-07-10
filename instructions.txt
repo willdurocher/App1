@@ -1,0 +1,4 @@
+git add filename.extension
+git commit -m "my msg"
+git push origin master
+- inster name and pass
